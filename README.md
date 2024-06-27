@@ -15,5 +15,5 @@ Additional Features:
 Used Multiple Linear Regression incorporating all 7 columns (6 independent and 1 dependent).
 Re-evaluated the model with the added features.
 Polynomial Features:
-Worked with Polynomial features and included a scatter plot for the Polynomial Regression Curve.
+Worked with Polynomial features.
 Re-evaluated the model to observe changes in performance.
