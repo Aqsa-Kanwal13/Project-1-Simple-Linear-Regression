@@ -1,4 +1,4 @@
-Simple Linear Regression Project
+Simple Linear Regression Project:
 This project involved working on a Simple Linear Regression task as part of an internship with CodexCue. Here are the key steps and methodologies used:
 
 Dataset Overview: The dataset comprised 7 columns and 244 rows with no null values.
